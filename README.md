@@ -1,4 +1,4 @@
-# playchain-docs
+# PlayChain Documentation
 
 * [Basics of the PlayChain System](./en/playchain_basics.md)
 * [Referral Program](./en/playchain_affiliate_allocation.md)
