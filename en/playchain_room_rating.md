@@ -1,6 +1,6 @@
 # Room Rating System
 
-Rating formula:
+Rating is calculated by the formula:
 
 ![Rating formula](../images/rating_exp.png "Rating formula"),
 
@@ -41,7 +41,7 @@ The exponential dependency form is widely used to describe information aging pro
 
 _Fig. 1_
 
-### Score with regard to time factor     
+### Score with regard to time factor:    
 
 ![Score](../images/score_rtf_exp.png "Score"),
 
@@ -49,7 +49,7 @@ where
 ![coefficient](../images/k_exp.png) - time dependent coefficient (see above);  
 N - quantity of requests taking into consideration.
     
-### Average rating value with regard to time factor 
+### Average rating value with regard to time factor: 
 
 ![Average](../images/average_rating_exp.png "Average"),
 
@@ -57,7 +57,7 @@ where
 ![coefficient](../images/k_exp.png) - time dependent coefficient (see above); 
 Na - quantity of requests taking into consideration by all rooms.
 
-### Score function
+### Score function:
 
 The final rating value is multiplied by the value of the function, depending on the number of client requests taken into consideration:
 
@@ -76,5 +76,5 @@ _Fig. 2_
 
 The function reaches 1 when N = 100.
 
-**Taking into account the fact that the blockchain uses integer arithmetic all presented formulas below are multiplied by the coefficient P = 1000 to reduce the calculation inaccuracy.**
+**Taking into account the fact that the blockchain uses integer arithmetic all presented formulas are multiplied by the coefficient P = 1000 to reduce the calculation inaccuracy.**
 

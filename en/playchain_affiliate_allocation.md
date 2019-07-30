@@ -1,4 +1,4 @@
-# Affiliate Allocation System
+# Referral program
 
 To get an account in the blockchain is to have an invite code from someone from the players or affiliates.
 
