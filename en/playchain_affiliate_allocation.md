@@ -1,6 +1,6 @@
 # Referral Program
 
-To get an account in the blockchain is to have an invite code from someone from the players or affiliates.
+To get an account in the PlayChain is to have an invite code from someone from the players or affiliates.
 
 ![Rake distribution](../images/afl_schema.png "Fig. 1 Rake distribution")
 
